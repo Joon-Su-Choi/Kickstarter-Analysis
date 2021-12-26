@@ -39,7 +39,7 @@ Overview of Analysis
 
 	In this graph we observe what percentage of theater outcomes were successful, failed, or canceled in relation to their launch date. There seems to be an almost neglible amount of theater campaigns that were canceled. The amount of ones that have failed seem almost uniform throughout the year with an estimate of 40. The amount of theater campaigns that were successful seemed to be at its most during the month of May with an estimate of 110, which far exceeds the beginning and end of the year.
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95505596/147374029-bfdc3156-04eb-4934-9d06-f43f861ab283.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95505596/147416494-1daece9c-72dc-4ec4-9207-3c97af8141c1.png)
 
 	In this graph we observe what percentage of plays were successful, failed, or canceled in relation to their fund raising goals. There is no line on the graph indicating percentage canceled because there were no plays that were canceled for any range of the fundraising goals. We can observe that the highest percentage of plays successful were the ones with the lowest fundraising goals. The goal range of 'less than 1000' is the highest peak of almost 80% of plays being successful. However, there seems to be a spike upwards in percentages successful around the goal range of $35,000 to $45,000 resting around 70%.
 
